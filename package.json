@@ -1,0 +1,24 @@
+{
+  "name": "utf8encoder",
+  "version": "1.0.0",
+  "description": "UTF8 Encoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzorjnz/utf8encoder.git"
+  },
+  "keywords": [
+    "utf8",
+    "encoder",
+    "javscript"
+  ],
+  "author": "Syed Zeeshan Akhtar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzorjnz/utf8encoder/issues"
+  },
+  "homepage": "https://github.com/jzorjnz/utf8encoder#readme"
+}

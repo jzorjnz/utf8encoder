@@ -1,2 +1,3 @@
-# utf8encoder
-UTF8 Encoder in Javascript
+# UTF-8 Encoder
+
+UTF-8 Encoder written in Javascript
